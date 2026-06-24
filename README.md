@@ -10,6 +10,7 @@ Things you may want to cover:
 ## Use Rails version <Rails 8.1.3> `rails -v` to check the version of Rails installed. Ensure you have the correct version.
 
 # System dependencies
+## Use `bash` to install the required system dependencies for the project. This may include libraries, tools, or other software needed to run the application.
 ## Use `bundle install` to install the required gems specified in the Gemfile.
 
 # Configuration
