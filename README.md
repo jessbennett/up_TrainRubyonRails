@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README is a guide to help you get started with the up_TrainRubyonRails project. It provides information on the Ruby version, system dependencies, configuration, database setup, testing, and deployment instructions.
 
 Things you may want to cover:
 
