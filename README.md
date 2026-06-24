@@ -5,6 +5,8 @@ This README is a guide to help you get started with the up_TrainRubyonRails proj
 Things you may want to cover:
 
 * Ruby version
+- `ruby -v` to check the version of Ruby installed on your system. Ensure you have the correct version.
+- use `ruby <ruby 3.3.0>` to install the required Ruby version.
 
 * System dependencies
 
