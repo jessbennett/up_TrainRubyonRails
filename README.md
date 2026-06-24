@@ -15,13 +15,12 @@ Run these commands from the project root:
 
 ```bash
 # install Ruby (rbenv/asdf) and select the version in .ruby-version
-# install gem dependencies
 bundle install
 
 # copy example env and set values
 cp .env.example .env
 
-# if PostgreSQL is not running, start it first
+# optionally start local PostgreSQL with Homebrew
 # brew services start postgresql
 
 # create and migrate the database
@@ -31,6 +30,13 @@ rails db:seed
 
 # start the app (use `bin/dev` if using foreman/overmind)
 bin/dev
+```
+
+If you prefer a single setup command and a local DB container, use:
+
+```bash
+docker compose up -d db
+bin/setup --skip-server
 ```
 
 Notes:
