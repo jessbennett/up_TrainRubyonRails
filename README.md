@@ -21,6 +21,9 @@ bundle install
 # copy example env and set values
 cp .env.example .env
 
+# if PostgreSQL is not running, start it first
+# brew services start postgresql
+
 # create and migrate the database
 rails db:create
 rails db:migrate
