@@ -7,6 +7,8 @@ Things you may want to cover:
 # Ruby version
 ## `ruby -v` to check the version of Ruby installed on your system. Ensure you have the correct version.
 ## Use `ruby <ruby 3.3.0>` to install the required Ruby version.
+
+# Rails version
 ## Use Rails version <Rails 8.1.3> `rails -v` to check the version of Rails installed. Ensure you have the correct version.
 
 # System dependencies
