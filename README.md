@@ -1,3 +1,6 @@
+<img width="800" height="800" alt="rubygems_logo_red" src="https://github.com/user-attachments/assets/4f511b71-04a5-40ce-b7f0-b1c9aa07c57e" />
+
+
 # up_TrainRubyonRails
 
 A Rails application scaffold generated for the up_TrainRubyonRails project.
